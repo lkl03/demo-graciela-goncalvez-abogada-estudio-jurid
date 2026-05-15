@@ -1,2 +1,7 @@
-# demo-graciela-goncalvez-abogada-estudio-jurid
-Demo web para GRACIELA GONCALVEZ - ABOGADA- Estudio Jurídico Integral — diseñada por eterlab.
+# GRACIELA GONCALVEZ - ABOGADA- Estudio Jurídico Integral
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
